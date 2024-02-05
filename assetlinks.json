@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "app.sellingreselling",
+    "sha256_cert_fingerprints":
+    ["56:F4:11:B2:6D:AA:34:A3:F5:16:D9:EF:C6:DC:B7:A2:92:E4:49:BF:1C:7E:09:EB:7A:51:3D:9E:64:03:63:2E"]
+  }
+}]
